@@ -1,6 +1,6 @@
 # postMan
 This project uses the G-mail api to collect all the emails in your inbox and systematically trash them according the the senders email address
-The following libraries are used
+The following libraries are used:
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 the following link will provide you information on how to set up a google cloud project and obtain Oauth2 credentials
